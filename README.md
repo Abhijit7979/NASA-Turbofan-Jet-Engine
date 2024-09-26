@@ -3,3 +3,4 @@ Goal is to predict the remaining useful life (RUL) of each engine in the test da
 # Model 
 - Classification :
   * Logistic Regression
+  * ANN
